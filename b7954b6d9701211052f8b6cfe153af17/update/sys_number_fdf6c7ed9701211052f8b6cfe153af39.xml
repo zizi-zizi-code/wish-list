@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_965007_wish_list_zizi_table_list">x_965007_wish_list_zizi_table_list</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>ZIZ</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-16 11:28:21</sys_created_on>
+        <sys_id>fdf6c7ed9701211052f8b6cfe153af39</sys_id>
+        <sys_name>ZIZ</sys_name>
+        <sys_package display_value="Wish List" source="x_965007_wish_list">b7954b6d9701211052f8b6cfe153af17</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">b7954b6d9701211052f8b6cfe153af17</sys_scope>
+        <sys_update_name>sys_number_fdf6c7ed9701211052f8b6cfe153af39</sys_update_name>
+    </sys_number>
+</record_update>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="61f687ed9701211052f8b6cfe153aff5" label="ZIZI_Table_List" max_length="40" name="x_965007_wish_list_zizi_table_list" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Item" mandatory="true" max_length="125" name="item" type="string"/>
+    </element>
+</database>

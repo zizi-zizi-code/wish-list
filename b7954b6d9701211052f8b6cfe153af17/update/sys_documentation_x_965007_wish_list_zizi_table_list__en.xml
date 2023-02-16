@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="ZIZI_Table_List" language="en" table="x_965007_wish_list_zizi_table_list">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>ZIZI_Table_List</label>
+            <language>en</language>
+            <name>x_965007_wish_list_zizi_table_list</name>
+            <plural>ZIZI_Table_Lists</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-16 11:28:20</sys_created_on>
+            <sys_name>ZIZI_Table_List</sys_name>
+            <sys_package display_value="Wish List" source="x_965007_wish_list">b7954b6d9701211052f8b6cfe153af17</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish List">b7954b6d9701211052f8b6cfe153af17</sys_scope>
+            <sys_update_name>sys_documentation_x_965007_wish_list_zizi_table_list__en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
